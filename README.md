@@ -1,1 +1,1 @@
-"# teste-nibbletecnologia" 
+Para concluir o projeto precisa digitar o NPM INSTALL para instalar o node_modules, senão ficaria muito pesado na hora de baixar o projeto, e para utilizar o banco de dados, foi enviado um convite para o mesmo endereço de email para enviar o projeto, pois, usei o mongodb atlas que é na nuvem.
